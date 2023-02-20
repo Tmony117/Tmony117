@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tmony. I am a proud Ghanaian. I'm a computer science and engineering student in my second year at the University of Mines and Technology Tarkwa 
+- 👋 Hi, I’m @Tmony. I am a proud Ghanaian. I'm a computer science and engineering student at the University of Mines and Technology Tarkwa 
 - 👀 I’m interested in everything web development but i'm oreinted in front-end dev using HTMl, CSS. CRUD app development using bootstrap and php.
 - 🌱 I’m currently learning javascript, and nextjs.
 - 💞️ I’m looking to collaborate on web application development, mobile application development and software development too!
