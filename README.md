@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tmony. I am a proud Ghanaian. I'm a computer science and engineering student at the University of Mines and Technology Tarkwa in the 3rd year
+- 👋 Hi, I’m Testimony. I am a proud Ghanaian. I'm a computer science and engineering student
 - 👀 I'm an aspiring full-stack web developer. 
 - 🌱 I’m currently learning Laravel and developing my backend skills.
 - 💞️ I’m looking to collaborate on web application development, and mobile application development.
-- 📫 You can connect with me on LinkedIn using this link https://www.linkedin.com/in/testimony-atsu-029943217 or send an email to Testimonyatsu99@gmail.com.
+- 📫 You can connect with me on LinkedIn using this link <a link="www.linkedin.com/in/testimony-atsu-029943217">HERE!!</a> or send an email to Testimonyatsu99@gmail.com.
                                <strong>TECHNOLOGIES</strong>
-PHP || HTML || CSS, BOOTSTRAP || JAVASCRIPT || REACTJS || NODEJS || MONGODB || MySQL || Wordpress
+   <span> || HTML || CSS || JAVASCRIPT || REACTJS || NODEJS || MySQL || Wordpress </span>
