@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Testimony.
+- 👋 Hi, I’m Testimony Atsu.
 - 👀 I'm an aspiring full-stack web/mobile developer. 
 - 🌱 I’m currently a frontend developer(Reactjs) developing my backend skills.
 - 💞️ I’m looking to collaborate on web, and mobile application development.
