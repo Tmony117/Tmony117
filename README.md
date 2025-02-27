@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmony117" alt="tmony117" /></a> </p>
 
-- 🌱 I'm currently learning **Python**, **LLM**
+- <p> 🌱 I'm currently taking a course named <a href="https://www.udemy.com/share/10cj1l3@LJBoCfRwwA4cK93LF_zBAr-USN0Z-hDW314_suJ8Rq55gJ5Y10J7Cfk0P2TdgyaNsQ==/">Javascript Security Essentials: Exploring the Attack Surface, by Digital Dojo </a> </p>
 - 💬 Ask me about **Fullstack Development, Reactjs, Nextjs, Nodejs**
 - 📫 How to reach me **testimonyatsu99@gmail.com**
 
