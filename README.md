@@ -1,4 +1,4 @@
-<h3 align="center">A software developer from Ghana</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmony117" alt="tmony117" /></a> </p>
 
